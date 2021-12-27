@@ -1,3 +1,3 @@
 # Dominoes
- Project on JetBrains Academy
+ Project on JetBrains Academy. 
  A text based game.
